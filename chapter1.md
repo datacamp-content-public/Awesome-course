@@ -10,7 +10,7 @@ type: NormalExercise
 lang: python
 xp: 100 
 skills: 2
-key: b04488d075   
+key: 31c741f5a0   
 ```
 
 
@@ -74,3 +74,16 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 `@feedback`
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 35b7e69999   
+```
+
+`@projector_key`
+745609b64daf636c0c99702cb44eda22
